@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ansh Gupta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning ...NodeJs
 - 📫 How to reach me ... E-mail: anshgupta203@gmail.com
 
 <!---
